@@ -1,0 +1,4 @@
+roms/
+build/
+obj/
+*.dSYM/
